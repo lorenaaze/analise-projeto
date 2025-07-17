@@ -40,4 +40,7 @@ Esse projeto visar fazer uma análise do site **Bugbank** (https://bugbank.netli
 - Se foi concluído
 
 <img width="1692" height="764" alt="image" src="https://github.com/user-attachments/assets/6999d169-db1c-4631-896c-3f7aa9a3beb1" />
+<img width="1695" height="389" alt="image" src="https://github.com/user-attachments/assets/e18f5dc6-e80b-42ec-91c5-461469ed52db" />
+
+
 
